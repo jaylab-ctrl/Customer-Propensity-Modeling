@@ -85,19 +85,10 @@ The data was collected from Kaggle.
     - Database: MongoDB or PostgreSQL
     - Deployment: StreamLit or Flask
     
-  - System 3:
-    - CPU: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz, Base Speed at 1.99 GHz 
-    - GPU: Intel(R) HD Graphics 520 and NVIDIA GeForce 920 MX 
-    - RAM: 12 GB 
-    - OS: Windows 10 Pro Version 21H2
-    - IDE: Jupyter Notebook and VS code
-    - Browser: Google Chrome
-    - Database: MongoDB or PostgreSQL
-    - Deployment: StreamLit or Flask
  
-- Python
-   - numpy: 1.21.6
-   - pandas: 1.3.5
-   - matpltlib: 3.2.2
-   - seaborn: 0.11.2
-   - scikit-learn: 1.0.2
+  - Python
+     - numpy: 1.21.6
+     - pandas: 1.3.5
+     - matpltlib: 3.2.2
+     - seaborn: 0.11.2
+     - scikit-learn: 1.0.2
