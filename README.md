@@ -7,7 +7,7 @@
 ![Python Version](https://img.shields.io/badge/python%20version-3.8.13-lightgrey)
 
 Badges source: [shields.io](https://shields.io/)
-# Technical and Strategic Assessment of Customer Propensity Modelling
+# Customer Propensity Modeling
 Major Project for Final Year. 
 
 
