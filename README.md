@@ -36,7 +36,7 @@ identify the most valuable opportunities and build strategies by targeting the v
 more likely to convert into customers who will help to maximize company’s revenue and
 accelerate its growth.
 
-To tackle this problem, I along with my team mates are developing an end-to-end Propensity Modelling as a Service (PMaaS) software that consists of four different models: Propensity to Buy, Propensity to Churn, Propensity to Engage, and Customer Lifetime Value, that will cater small businesses to make data-driven-decisions, targeting each segment of every customer.
+To tackle this problem, I along with my team mates are developing an end-to-end Propensity Modelling as a Service (PMaaS) software that consists of four different models: Propensity to Churn, Propensity to Engage, Customer Satisfaction, and Customer Lifetime Value, that will cater small businesses to make data-driven-decisions, targeting each segment of every customer.
 
 ## Domain Introduction
 Data science is the domain of study that deals with enormous amounts of data using cutting-edge
