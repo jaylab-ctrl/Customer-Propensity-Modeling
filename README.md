@@ -23,8 +23,7 @@ Major Project for Final Year.
   - [Business problem](#business-problem)
   - [Domain introduction](#domain-introduction)
   - [Data source](#data-source)
-  - [Tech Stack](#tech-stack)
-  
+
 ## Business Problem 
 With the increasing demands of customers, companies have shifted towards various online
 platforms. Every day, a number of people visit a particular website, but only a small percentage
@@ -63,32 +62,5 @@ validation, and deployment to timely adjust to changes.
 ## Data source
 The data was collected from Kaggle.
 
-## Tech Stack
-- Hardware and Software Specifications:
- - System 1:
-    - CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz, Base Speed at 2.11 GHz
-    - GPU: Intel(R) UHD Graphics and NVIDIA GeForce MX 250
-    - RAM: 8 GB
-    - OS: Windows 10 Home Version 21H2
-    - IDE: Jupyter Notebook and VS code
-    - Browser: Google Chrome
-    - Database: MongoDB or PostgreSQL
-    - Deployment: StreamLit or Flask
-    
-  - System 2:
-    - CPU: AMD Ryzen 5 3500U at 2.10 GHz 
-    - GPU: Radeon Vega Mobile Gfx
-    - RAM: 8 GB
-    - OS: Windows 11 Home Version 21H2
-    - IDE: Jupyter Notebook and VS code
-    - Browser: Google Chrome
-    - Database: MongoDB or PostgreSQL
-    - Deployment: StreamLit or Flask
-    
- 
-  - Python
-     - numpy: 1.21.6
-     - pandas: 1.3.5
-     - matpltlib: 3.2.2
-     - seaborn: 0.11.2
-     - scikit-learn: 1.0.2
+
+Please browse through our model folders to see about the functionality we created.
