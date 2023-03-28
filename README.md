@@ -1,10 +1,10 @@
-![Logo](https://cdn-gfaej.nitrocdn.com/MHIrceAcHnbuODVlprBJGHQryAbqorPp/assets/static/optimized/rev-07a7fa1/wp-content/uploads/2019/10/How-is-Artificial-Intelligence-Impacting.png)
+![Logo](https://media.licdn.com/dms/image/C4D12AQFAp1B_kmhGTg/article-cover_image-shrink_720_1280/0/1606126416466?e=2147483647&v=beta&t=UvsHCcCxAkw2788ze5ExLxSK_g0TG4ASpExeleIT-gc)
 
 
 
 
 
-![Python Version](https://img.shields.io/badge/python%20version-3.8.13-lightgrey)
+![Python Version](https://img.shields.io/badge/python%20version-3.9.16-lightgrey)
 
 Badges source: [shields.io](https://shields.io/)
 # Customer Propensity Modeling
