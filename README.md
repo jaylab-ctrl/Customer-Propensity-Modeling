@@ -29,13 +29,13 @@ With the increasing demands of customers, companies have shifted towards various
 platforms. Every day, a number of people visit a particular website, but only a small percentage
 of them actually make a purchase, and some of them may never even return. The customers are
 not loyal to the brands anymore, what they really want is the best product value for their money.
-Wherever they get a better offer they will purchase the product from there. So, it is very difficult
+Wherever they get a better offer, they will purchase the product from there. So, it is very difficult
 to predict customer behavior. A system can be generated to predict customer behavior and
 identify the most valuable opportunities and build strategies by targeting the visitors who are
-more likely to convert into customers who will help to maximize company’s revenue and
+more likely to convert into customers who will help to maximize the company’s revenue and
 accelerate its growth.
 
-To tackle this problem, I along with my team mates are developing an end-to-end Propensity Modelling as a Service (PMaaS) software that consists of four different models: Propensity to Churn, Propensity to Engage, Customer Satisfaction, and Customer Lifetime Value, that will cater small businesses to make data-driven-decisions, targeting each segment of every customer.
+To tackle this problem, I along with my teammates are developing an end-to-end Propensity Modelling as a Service (PMaaS) software that consists of four different models: Propensity to Churn, Propensity to Engage, and Customer Satisfaction, that provides informed predictions and recommendations based on customers' behavior. It enables small firms to make data-driven decisions to upscale their businesses.
 
 ## Domain Introduction
 Data science is the domain of study that deals with enormous amounts of data using cutting-edge
