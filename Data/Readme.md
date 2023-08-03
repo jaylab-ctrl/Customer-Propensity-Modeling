@@ -1,6 +1,13 @@
+![Data](https://www.freecodecamp.org/news/content/images/2022/11/web-g1c2368440_1280.jpg)
+
+
 This directory will consist of the data that was used in this project.
 
 Sorry, the data is huge, so it cannot be uploaded here. But we can tell what datasets were used for our project.
+
+The website that was used to collect the data was:
+
+![Kaggle](https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png)
 
 The link to the data is:
 
